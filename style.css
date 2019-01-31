@@ -1,0 +1,153 @@
+h1 {
+    color: #ea3e3e;
+    font-family: inherit
+}
+
+
+body {
+    background-color: #77d15b;
+}
+
+#titles h2 {
+    color: darkmagenta;
+    background-color: #B2D3A8;
+    font-family: fantasy;
+    font-size: 3em;
+}
+
+h3 {
+    background-color: firebrick;
+    font-family: serif;
+    color: azure;
+}
+
+h4 {
+    background-color: darkslategray;
+    font-family: serif;
+    color: blanchedalmond;
+}
+
+.surname {
+    color: #39304A;
+}
+
+.name {
+    color: goldenrod;
+}
+
+/*******Work Experience styling***/
+
+#work {
+    margin-top: 2em;
+    margin-left: 1em
+}
+
+#work h2 {
+    color: #6ee2e2;
+    font-family: monospace;
+}
+
+#school {
+    margin-top: 2em;
+    margin-left: 1em;
+
+}
+
+#school h2 {
+    color: #8aad15;
+    font-family: monospace;
+}
+
+
+#curriculars {
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+#curriculars h2 {
+    color: rgba(119, 30, 30, 0.98);
+    font-family: monospace;
+}
+
+#attending {
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+
+#attending h2 {
+    color: #4cfda4;
+    font-family: monospace;
+}
+
+#conducted {
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+#conducted h2 {
+    color: #001dff;
+    font-family: monospace;
+}
+
+#paper {
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+#paper h2 {
+    color: #a2a216;
+    font-family: monospace;
+}
+
+#me {
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+
+#me h2 {
+    color: #00695d;
+    font-family: monospace;
+}
+
+#me2 {
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+#me2 h2 {
+    color: #794109;
+    font-family: monospace;
+}
+
+ul {
+    list-style: none;
+    background-color: cadetblue;
+    font-family: sans-serif;
+    color: burlywood;
+}
+
+
+
+#left-col {
+    background-color: ;
+    width: 15em;
+    height: 100vh;
+}
+
+
+#right-col {
+    width: 50em;
+    background-color: white;
+    margin-left: 250;
+}
+
+#profile-pic {
+    border-radius: 50%;
+    align-content: center;
+}
+
+#ed-col1{
+    color: goldenrod
+}
