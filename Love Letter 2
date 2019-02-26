@@ -1,0 +1,101 @@
+<html>
+	<head>
+		<title> Isaac Brian Toh </title>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <link rel="stylesheet" 
+        href="style.css">
+	</head>
+    
+	<body>
+		
+
+			<div class="row">
+				<div id="left-col" class= "col-4 fixed-top">
+                    
+					<img id="profile-pic" src="Myself.jpg">
+					<h1>Isaac Brian Toh </h1>
+					<ul>
+						<li> Letter for my Brother </li>
+					</ul>
+				</div>
+				<div id="right-col" class="col">
+                    <section id="titles">
+                        <h2> Isaac <span class="name">Brian</span> <span class="surname">Toh</span></h2>
+					<h3>isaac_toh@dlsu.edu.ph</h3>
+					<h4>WH Taft Residences, Malate, Manila, 1004</h4>
+                    </section>
+					<!--school--->
+				<section id="school">
+				<h2> EDUCATION </h2>
+				<div class="row">
+					<div id="ed-col1" class="col">
+					2006-Present
+					</div>
+					<div class="col">
+					<p>
+						Dear bro, there are times that you ask me for help in your schoolwork and for advice in dealing with your schoolmates. I want you to know that<br>
+         all of my advice and helping was the cause of my own experiences. I told you these things so that you may become wiser than I was when I was your age.
+					</p>
+					</div>
+				</div>
+				</section>
+					
+				<!---extra-curriculars--->
+				<section id="curriculars">
+				<h2> ACTIVITIES WHEN WE WERE RELAXING </h2>
+				<div class="row">
+					<div id="ed-col1" class="col">
+					</div>
+					<div class="col">
+					
+					<p>
+						I remember the times we used to laugh and play. Though those times are far and less frequent than before, I am still glad that they happened.
+            
+					</p>
+					</div>
+				</div>
+				</section>
+					
+					
+                    <!---Call in case of doubt--->
+                  <section id="Me2">
+				<h2> PASSION </h2>
+				<div class="row">
+                    <div class="col">
+					
+					</div>
+					
+					<div class="col">
+					
+					   <p>
+              Though I taught you many things, you taught me things as well. How to be more caring, more understanding of people. I also learned somthing very valuable from you:<br>
+              Passion. Although you were always generally unmotivated, you always worked your butt off doing things that meant the world to you. Because of you, I learned to have a<br>
+              little passion in my life too.
+					</p>
+                        
+					</div>
+				</div>
+                      
+				</section>  
+				
+                    <!---Personalan--->
+                 <section id="Me">
+				<h2> PERSONAL BACKGROUND </h2>
+				<div class="row">
+					<div class="col">
+					
+					</div>
+					<div class="col"> 
+					
+					<p>
+						It is beacuse of your life and your naivete that challenged me to be a good brother. We always fought and argued, but know that I meant well for you.<br>
+            I know you meant the same.
+					</p>
+					</div>
+				</div>
+				</section>  
+                    <!---end here man--->
+				</div>
+			</div>
+	</body>
+</html>
