@@ -1,11 +1,11 @@
 h1 {
-    color: #ea3e3e;
-    font-family: inherit
+    color: #B22222;
+    font-family: sans-serif
 }
 
 
 body {
-    background-color: #77d15b;
+    background-color: #E466AB;
 }
 
 #titles h2 {
@@ -16,15 +16,15 @@ body {
 }
 
 h3 {
-    background-color: firebrick;
+    background-color: #8B0000;
     font-family: serif;
-    color: azure;
+    color: #459e73;
 }
 
 h4 {
-    background-color: darkslategray;
+    background-color: #949470;
     font-family: serif;
-    color: blanchedalmond;
+    color: #eb3d3d;
 }
 
 .surname {
@@ -32,20 +32,10 @@ h4 {
 }
 
 .name {
-    color: goldenrod;
+    color: #d17519;
 }
 
 /*******Work Experience styling***/
-
-#work {
-    margin-top: 2em;
-    margin-left: 1em
-}
-
-#work h2 {
-    color: #6ee2e2;
-    font-family: monospace;
-}
 
 #school {
     margin-top: 2em;
@@ -65,38 +55,7 @@ h4 {
 }
 
 #curriculars h2 {
-    color: rgba(119, 30, 30, 0.98);
-    font-family: monospace;
-}
-
-#attending {
-    margin-top: 2em;
-    margin-left: 1em;
-}
-
-
-#attending h2 {
-    color: #4cfda4;
-    font-family: monospace;
-}
-
-#conducted {
-    margin-top: 2em;
-    margin-left: 1em;
-}
-
-#conducted h2 {
     color: #001dff;
-    font-family: monospace;
-}
-
-#paper {
-    margin-top: 2em;
-    margin-left: 1em;
-}
-
-#paper h2 {
-    color: #a2a216;
     font-family: monospace;
 }
 
@@ -123,9 +82,9 @@ h4 {
 
 ul {
     list-style: none;
-    background-color: cadetblue;
+    background-color: #5F9EA0;
     font-family: sans-serif;
-    color: burlywood;
+    color: #DEB887;
 }
 
 
@@ -139,7 +98,7 @@ ul {
 
 #right-col {
     width: 50em;
-    background-color: white;
+    background-color: #FFE4C4;
     margin-left: 250;
 }
 
@@ -149,5 +108,5 @@ ul {
 }
 
 #ed-col1{
-    color: goldenrod
+    color: #DCDCDC
 }
